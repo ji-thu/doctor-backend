@@ -1,0 +1,16 @@
+{
+  "name": "doctor-app-backend",
+  "version": "1.0.0",
+  "description": "doctor-details-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jithu",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.4",
+    "server": "^1.0.38"
+  }
+}
